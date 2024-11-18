@@ -3,3 +3,5 @@ def hi_there():
 
 def my_function():
     return 'hi'
+
+print("hi")
