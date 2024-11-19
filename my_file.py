@@ -4,4 +4,4 @@ def hi_there():
 def my_function():
     return 'hi'
 
-print("hi")
+print("Update python function with merge conflict")
